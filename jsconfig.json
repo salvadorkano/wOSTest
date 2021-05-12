@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "_assets/*": ["src/assets/*"],
+        "_assets/index.js": ["src/assets/index.js"],
+        "_components/*": ["src/components/*"],
+        "_atoms/*": ["src/components/atoms/*"],
+        "_molecules/*": ["src/components/molecules/*"],
+        "_organims/*": ["src/components/organims/*"],
+        "_navigations/*": ["src/navigations/*"],
+        "_scenes/*": ["src/scenes/*"],
+        "_services/*": ["src/services/*"],
+        "_services/": ["src/services/index.js"],
+        "_styles/*": ["src/styles/*"],
+        "_styles/": ["src/styles/index.js"],
+        "_utils/*": ["src/utils/*"],
+        "_utils/": ["src/utils/index.js"],
+        "_context/*": ["src/context/*"]
+      }
+    }
+  }

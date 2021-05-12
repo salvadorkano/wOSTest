@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347595874483",
+    "project_id": "wostest-7c0ef",
+    "storage_bucket": "wostest-7c0ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347595874483:android:0d802bd42437513e2b90c6",
+        "android_client_info": {
+          "package_name": "com.wostest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347595874483-lv4o1cikomds81jfdi3pl6118ukun5qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcuxDah6G2PfFjLGNiZjVIINNztkJPFpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347595874483-lv4o1cikomds81jfdi3pl6118ukun5qu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
